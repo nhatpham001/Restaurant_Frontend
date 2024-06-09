@@ -1,0 +1,17 @@
+[33mcommit ccbcc9db455006fedb498f231873176da76a6f97[m[33m ([m[1;36mHEAD -> [m[1;32mfeature-homepage[m[33m)[m
+Author: Your Name <you@example.com>
+Date:   Thu Jun 6 23:27:44 2024 -0400
+
+    Adding yarn.lock
+
+[33mcommit 270d34a6e92372bb778f6689e3b7dab4d43c2bbb[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Author: jacklvd <vodanglong3103@gmail.com>
+Date:   Thu Jun 6 22:59:07 2024 -0400
+
+    first commit
+
+[33mcommit 56d337b63a49c8e23ea9bf3d9dc7ea1d5b7f2daf[m
+Author: jacklvd <vodanglong3103@gmail.com>
+Date:   Thu Jun 6 22:55:27 2024 -0400
+
+    Initial commit from Create Next App
