@@ -1,5 +1,5 @@
 import React from 'react'
-
+import 'bootstrap/dist/css/bootstrap.min.css';
 const NavBar = () => {
   return (
 <nav className="navbar navbar-expand-lg bg-body-tertiary">
